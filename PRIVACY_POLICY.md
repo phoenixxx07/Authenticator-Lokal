@@ -47,3 +47,4 @@
 The source code and cryptographic implementation can be reviewed directly in the extension bundle or repository:
 * **Repository:** [https://github.com/phoenixxx07/Authenticator-Lokal](https://github.com/phoenixxx07/Authenticator-Lokal)
 * **Developer:** phoenixxx07
+* **Contact Email:** agung.bas07@gmail.com
